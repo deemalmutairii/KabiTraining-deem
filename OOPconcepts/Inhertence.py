@@ -1,4 +1,4 @@
-from Abstraction import Brand
+from OOPconcepts.Abstraction import Brand
 
 
 # Defining the TechnologyBrand class, which represents a technology brand

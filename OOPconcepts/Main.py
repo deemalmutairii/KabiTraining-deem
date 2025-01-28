@@ -1,5 +1,5 @@
-from Encapsulation import EncapsulationExample
-from Inhertence import FashionBrand, TechnologyBrand
+from OOPconcepts.Encapsulation import EncapsulationExample
+from OOPconcepts.Inhertence import FashionBrand, TechnologyBrand
 from Polymorphism import PolymorphismExample
 
 
